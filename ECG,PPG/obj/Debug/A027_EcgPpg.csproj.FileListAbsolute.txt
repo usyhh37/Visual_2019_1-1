@@ -1,0 +1,10 @@
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\bin\Debug\A027_EcgPpg.exe.config
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\bin\Debug\A027_EcgPpg.exe
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\bin\Debug\A027_EcgPpg.pdb
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.csprojAssemblyReference.cache
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.Form1.resources
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.Properties.Resources.resources
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.csproj.GenerateResource.cache
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.csproj.CoreCompileInputs.cache
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.exe
+C:\Users\usyhh\OneDrive\바탕 화면\ECG,PPG\obj\Debug\A027_EcgPpg.pdb
